@@ -1,5 +1,6 @@
 
 # FORK AT YOUR OWN RISK
+!logo](https://telegra.ph/file/62f10e6cd2e1d23d8bd01.jpg)
 # Installing
 ### The Easy Way
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
