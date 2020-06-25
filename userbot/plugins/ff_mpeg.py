@@ -1,4 +1,4 @@
-"""FFMpeg for @UniBorg
+"""FFMpeg for @rkprojects
 """
 import asyncio
 import io
