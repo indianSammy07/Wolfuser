@@ -113,7 +113,7 @@ if bool(ENV):
     MAX_FLOOD_IN_P_M_s = int(os.environ.get("MAX_FLOOD_IN_P_M_s", 5))
     UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/sandy1709/catuserbot.git")
+    "https://github.com/indianSammy07/WolfUserbot.git")
     
     # Time & Date - Country and Time Zone
     COUNTRY = str(os.environ.get("COUNTRY", ""))
