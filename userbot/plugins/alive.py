@@ -14,7 +14,7 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "WolfUserbot"
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit("**Telethon Userbot powered by**\n\n"
-                     "💻*Status*:`online`
+                     "💻*Status*:`online`\n
                      f"🌐*Telethon*: {version.__version__}\n`"
                      f"🐍*Python*: {python_version()}\n`"
                      "🐺*Owner*:[WolfUserbot](https://GitHub.come/indianSammy07/WolfUserbot)"
