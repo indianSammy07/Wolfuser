@@ -1,7 +1,7 @@
 {
-  "name": "π.$",
-  "description": "Userbot created by a SNAPDRAGON and custom fork by https://t.me/mrconfused contact @mrconfused for support",
-  "logo": "https://telegra.ph/file/f8ab330abd9a8a43f5a40.jpg",
+  "name": "Mr.Sammy",
+  "description": "Userbot created by a MrSammy and custom fork by https://t.me/MadNoob contact @MadNoob for support",
+  "logo": "https://telegra.ph/file/62f10e6cd2e1d23d8bd01.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sandy1709/catuserbot/",
+  "repository": "https://github.com/indianSammy07/WolfUserbot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
