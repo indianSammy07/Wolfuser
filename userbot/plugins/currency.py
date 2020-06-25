@@ -1,4 +1,4 @@
-"""Currency Converter Plugin for @UniBorg
+"""Currency Converter Plugin for @rkprojects
 Syntax: .currency number from to
 example: .currency 5 usd inr"""
 from telethon import events
