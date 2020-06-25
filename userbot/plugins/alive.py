@@ -15,14 +15,14 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit("**Telethon Userbot powered by**\n\n"
 
-                     f"🌐*Telethon*: {version.__version__}\n`"
-                     f"🐍*Python*: {python_version()}\n`"
-                     "🐺*Owner*:[WolfUserbot](https://GitHub.come/indianSammy07/WolfUserbot)"
-                     "🤖*Userbot name*:`wolfuserbot\n`"
-                     "*The power of imagination make me infinity*\n"
-                     "🗳️*Plugin*:`God Know`\n"
-                     "⛑️*Repo Status*:[public](https://telegra.ph/file/92b4a6fc9f5d7de83b98b.jpg)"
-                     f"`☞My peru owner`: [{DEFAULTUSER}](@rkprojects)\n"
+                     f"🌐**Telethon** : {version.__version__}\n`"
+                     f"🐍**Python** : {python_version()}\n`"
+                     "🐺*Owner* :[WolfUserbot](https://GitHub.come/indianSammy07/WolfUserbot)"
+                     "🤖**Userbot name** :`wolfuserbot\n`"
+                     "**The power of imagination make me infinity**\n"
+                     "🗳️*"Plugin** :`God Know`\n"
+                     PM_IMG = "https://telegra.ph/file/92b4a6fc9f5d7de83b98b.jpg"
+                     f"**My peru owner**: [{DEFAULTUSER}](@rkprojects)\n"
                      #"[Deploy this userbot Now](https://github.com/indianSammy07/WolfUserbot)"
                     )
     
