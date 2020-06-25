@@ -1,4 +1,4 @@
-"""Color Plugin for @UniBorg
+"""Color Plugin for @rkprojects
 Syntax: .color <color_code>"""
 from telethon import events
 import os
