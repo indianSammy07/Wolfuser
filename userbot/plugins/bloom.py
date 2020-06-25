@@ -3,10 +3,10 @@ Time In Profile Pic.....
 Command: `.bloom`
 Hmmmm U need to config DOWNLOAD_PFP_URL_CLOCK var in Heroku with any telegraph image link
 :::::Credit Time::::::
-1) Coded By: @s_n_a_p_s
-2) Ported By: @r4v4n4 (Noodz Lober)
-3) End Game Help By: @spechide
-4) Better Colour Profile Pic By @PhycoNinja13b
+1) Coded By: @MrSemmy
+2) Ported By: @Nitesh_231 (Noodz Lober)
+3) End Game Help By: @rkprojects
+4) Better Colour Profile Pic By @MadNoob
 #curse: who ever edits this credit section will goto hell
 ⚠️DISCLAIMER⚠️
 USING THIS PLUGIN CAN RESULT IN ACCOUNT BAN. WE DONT CARE ABOUT BAN, SO WE ARR USING THIS.
