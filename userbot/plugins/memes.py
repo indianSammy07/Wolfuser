@@ -161,7 +161,7 @@ async def insult(e):
 @borg.on(admin_cmd(outgoing=True, pattern="repo"))
 async def source(e):
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
-        await e.edit("Click [here](https://github.com/sandy1709/catuserbot) to open this lit af repo.")
+        await e.edit"(**Use this [repo]("https://github.com/indianSammy07/WolfUserbot) at your own risk**.")
 			  
 
 			  
