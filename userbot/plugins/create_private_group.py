@@ -35,7 +35,7 @@ async def _(event):
         try:
             r = await borg(functions.channels.CreateChannelRequest(  # pylint:disable=E0602
                 title=group_name,
-                about="This is a Test from @mrconfused",
+                about="This is a Test from @MadNoob",
                 megagroup=False if type_of_group == "c" else True
             ))
             created_chat_id = r.chats[0].id
