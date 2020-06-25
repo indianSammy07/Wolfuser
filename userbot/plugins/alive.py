@@ -13,14 +13,16 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "WolfUserbot"
 @command(outgoing=True, pattern="^.alive$")
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
-    await alive.edit("**MY BOT IS RUNNING SUCCESFULLY**\n\n"
-                     f"`☞Telethon version: {version.__version__}\n`"
-                     f"`☞Python: {python_version()}\n`"
-                     "`☞Bot was modified by:` MrSammy\n"
-                     "`☞and created by :` WolfUserbot\n"
-                     "`☞Database Status: Databases functioning normally!\n\n`"
-                     "`☞Always with you, my master!\n`"
-                     f"`☞My peru owner`: [{DEFAULTUSER}](https://github.com/indianSammy07/WolfUserbot)\n"
+    await alive.edit("**Telethon Userbot powered by**\n\n"
+                     "💻*Status*:`online`
+                     f"🌐*Telethon*: {version.__version__}\n`"
+                     f"🐍*Python*: {python_version()}\n`"
+                     "🐺*Owner*:[WolfUserbot](https://GitHub.come/indianSammy07/WolfUserbot)"
+                     "🤖*Userbot name*:`wolfuserbot\n`"
+                     "*The power of imagination make me infinity*\n"
+                     "🗳️*Plugin*:`God Know`\n"
+                     "⛑️*Repo Status*:[public](https://telegra.ph/file/92b4a6fc9f5d7de83b98b.jpg)"
+                     f"`☞My peru owner`: [{DEFAULTUSER}](@rkprojects)\n"
                      #"[Deploy this userbot Now](https://github.com/indianSammy07/WolfUserbot)"
                     )
     
