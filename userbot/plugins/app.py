@@ -14,7 +14,7 @@ from platform import uname
 from userbot import ALIVE_NAME
 from userbot import CMD_HELP
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "cat"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "WolfUserbot"
 @borg.on(admin_cmd(pattern="app (.*)"))
 async def apk(event):
     try:
