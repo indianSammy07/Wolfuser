@@ -20,7 +20,7 @@ async def amireallyalive(alive):
                      "🐺*Owner* :[WolfUserbot](https://GitHub.come/indianSammy07/WolfUserbot)"
                      "🤖**Userbot name** :`wolfuserbot\n`"
                      "**The power of imagination make me infinity**\n"
-                     "🗳️*"Plugin** :`God Know`\n"
+                     
                      PM_IMG = "https://telegra.ph/file/92b4a6fc9f5d7de83b98b.jpg"
                      f"**My peru owner**: [{DEFAULTUSER}](@rkprojects)\n"
                      #"[Deploy this userbot Now](https://github.com/indianSammy07/WolfUserbot)"
