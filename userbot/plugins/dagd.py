@@ -1,4 +1,4 @@
-"""DA.GD helpers in @UniBorg
+"""DA.GD helpers in @rkprojects
 Available Commands:
 .isup URL
 .dns google.com
