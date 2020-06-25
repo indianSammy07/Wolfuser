@@ -1,4 +1,4 @@
-"""CoinFlip for @UniBorg
+"""CoinFlip for @rkProjects
 Syntax: .coinflip [optional_choice]"""
 from telethon import events
 import random, re
