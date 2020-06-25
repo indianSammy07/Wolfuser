@@ -1,6 +1,6 @@
 """Syntax : .gps <location name>
-  help from @sunda005 and @SpEcHIDe
-  credits :@mrconfused
+  help from @Nitesh_231 and @mrconfused
+  credits :@MadNoob
   don't edit credits"""
 
 from geopy.geocoders import Nominatim
