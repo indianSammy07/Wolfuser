@@ -8,7 +8,7 @@ from userbot.utils import admin_cmd,sudo_cmd
 from telethon import version
 from platform import python_version, uname
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "cat"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "WolfUserbot"
 
 @command(outgoing=True, pattern="^.alive$")
 async def amireallyalive(alive):
@@ -16,12 +16,12 @@ async def amireallyalive(alive):
     await alive.edit("**MY BOT IS RUNNING SUCCESFULLY**\n\n"
                      f"`☞Telethon version: {version.__version__}\n`"
                      f"`☞Python: {python_version()}\n`"
-                     "`☞Bot was modified by:` sandeep\n"
-                     "`☞and created by :` snapdragon,anubis\n"
+                     "`☞Bot was modified by:` MrSammy\n"
+                     "`☞and created by :` WolfUserbot\n"
                      "`☞Database Status: Databases functioning normally!\n\n`"
                      "`☞Always with you, my master!\n`"
-                     f"`☞My peru owner`: [{DEFAULTUSER}](https://github.com/sandy1709/catuserbot)\n"
-                     #"[Deploy this userbot Now](https://github.com/sandy1709/catuserbot)"
+                     f"`☞My peru owner`: [{DEFAULTUSER}](https://github.com/indianSammy07/WolfUserbot)\n"
+                     #"[Deploy this userbot Now](https://github.com/indianSammy07/WolfUserbot)"
                     )
     
     
