@@ -3,7 +3,7 @@ usage: reply with file : .rar , .7z  create archived file
 
 unzip usage: reply with zipped file .unzipper
 
-Coded by @furki
+Coded by @MadNoob
 
 """
 
@@ -105,7 +105,7 @@ async def _(event):
             await borg.send_file(
                 event.chat_id,
                 directory_name + ".rar",
-                caption="rarred By cat",
+                caption="rarred By WolfUserbot",
                 force_document=True,
                 allow_cache=False,
                 reply_to=event.message.id,
@@ -155,7 +155,7 @@ async def _(event):
             await borg.send_file(
                 event.chat_id,
                 directory_name + ".7z",
-                caption="7z archived By cat",
+                caption="7z archived By WolfUserbot",
                 force_document=True,
                 allow_cache=False,
                 reply_to=event.message.id,
@@ -209,7 +209,7 @@ async def _(event):
             await borg.send_file(
                 event.chat_id,
                 output,
-                caption="TAR By cat",
+                caption="TAR By WolfUserbot",
                 force_document=True,
                 allow_cache=False,
                 reply_to=event.message.id,
