@@ -8,7 +8,7 @@ from telethon import events, functions, __version__
 from userbot import SUDO_LIST
 from userbot.utils import sudo_cmd
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "cat"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "WolfUserbot"
 
 @command(pattern="^.help ?(.*)")
 async def cmd_list(event):
