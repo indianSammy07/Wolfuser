@@ -25,7 +25,7 @@ cat_caption += "🛡**Always With You, My Master!**\n\n"
 cat_caption += f"🛡`Owner Name :` {DEFAULTUSER}\n\n"
 cat_caption += "🛡`Database Status :` Databases Functioning Normally!\n\n"
 cat_caption += "🛡`Modified by :` [WolfGang](http://t.me/MrSemmy)\n\n"
-cat_caption += "🛡`Created by :` Sandeep \n\n"
+cat_caption += "🛡`Created by :` Sammy \n\n"
 cat_caption += "**[⚜️DEPLOY 🐺WOLFUSERBOT⚜️](https://github.com/indianSammy07/WolfUserbot)**"
 
 
