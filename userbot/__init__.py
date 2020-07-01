@@ -158,8 +158,6 @@ if not os.path.exists('bin'):
     
 from userbot.helpers import fonts as fonts
 
-#Bot Version
-BOT_VER = os.environ.get("BOT_VER", "3.1")
 
 binaries = {
     "https://raw.githubusercontent.com/yshalsager/megadown/master/megadown":
