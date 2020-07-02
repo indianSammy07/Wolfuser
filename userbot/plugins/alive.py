@@ -18,7 +18,7 @@ else:
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "@MrSemmy"
 
 cat_caption = "**𝕄𝕪 𝕓𝕠𝕥 𝕚𝕤 𝕣𝕦𝕟𝕟𝕚𝕟𝕘 𝕤𝕦𝕔𝕔𝕖𝕤𝕤𝕗𝕦𝕝𝕝𝕪**\n\n"
-cat_caption += f"🛡"😒𝔸ℙ𝕌ℕ 𝕀𝔻ℍ𝔸ℝ𝕀ℂℍ ℍ𝔸𝕀😒\n\n"
+
 cat_caption += f"🛡"♥️тєℓєтнση νєяѕιση: {version.__version__}\n\n"
 cat_caption += f"🛡"🐺ρутнση νєяѕιση: {python_version()}\n\n"
 cat_caption += "🛡**Always With You, My Master!**\n\n"
