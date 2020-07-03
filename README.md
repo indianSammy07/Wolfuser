@@ -1,7 +1,7 @@
 # 🐺 WOLFUSERBOT
 
 
-[![Get HU String For Userbot](https://telegra.ph/file/012e02bec79baa81490ee.jpg)](https://pornhub.ravananew.repl.run)
+[![WolfUserbot](https://telegra.ph/file/a6c81b071ebe187d051c1.jpg)
 
 
 
