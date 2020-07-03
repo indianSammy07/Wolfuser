@@ -1,7 +1,7 @@
 # 🐺 WOLFUSERBOT
 
 
-![WolfUserbot](https://telegra.ph/file/a6c81b071ebe187d051c1.jpg)](https://heroku.com/deploy)
+![WolfUserbot](https://telegra.ph/file/a6c81b071ebe187d051c1.jpg)
 
 
 
