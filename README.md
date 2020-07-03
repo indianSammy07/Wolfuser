@@ -1,7 +1,7 @@
 # 🐺 WOLFUSERBOT
 
 
-![WolfUserbot](https://telegra.ph/file/a6c81b071ebe187d051c1.jpg)
+![WolfUserbot](https://telegra.ph/file/a6c81b071ebe187d051c1.jpg)](https://heroku.com/deploy)
 
 
 
@@ -28,11 +28,11 @@ I THANK RkPROJECTS FOR THIER FREE VIDEO SERVICE WATCH VIDEO ON HOW TO DEPLOY
 ## Installing Heroku 
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkGang/fridayuserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/indianSammy07/wolfuserbot)
 
 ## GET STRING SESSION FROM REPL RUN 
 
-[![Repl.it](https://img.shields.io/badge/REPL%20RUN-Run%20Online-blue.svg)](https://friday.starkgang.repl.run)
+[![Repl.it](https://img.shields.io/badge/REPL%20RUN-Run%20Online-blue.svg)](https://sammywolf.beyonddlimits.repl.run/)
 
 
 
