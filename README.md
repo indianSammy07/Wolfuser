@@ -23,7 +23,7 @@ Best User Bot To Manage Your Telegram Account
 
 I THANK RkPROJECTS FOR THIER FREE VIDEO SERVICE WATCH VIDEO ON HOW TO DEPLOY 
 
-<a href="t.me/Rkprojects/17"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+<a href="https://t.me/Rkprojects/17"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 ## Installing Heroku 
 
