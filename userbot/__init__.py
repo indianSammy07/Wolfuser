@@ -1,5 +1,6 @@
 import os
 import sys
+import time
 from telethon.sessions import StringSession
 from telethon import TelegramClient
 from var import Var
@@ -14,6 +15,7 @@ import pylast
 from pySmartDL import SmartDL
 from requests import get
 
+UpTime = time.time()
 os.system("pip install --upgrade pip")
 if Var.STRING_SESSION:
     session_name = str(Var.STRING_SESSION)
