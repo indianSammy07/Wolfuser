@@ -352,7 +352,13 @@ async def progress(current, total, event, start, type_of_ps, file_name=None):
         else:
             await event.edit("{}\n{}".format(type_of_ps, tmp))
 
+def get_readable_time(seconds: int) -> str:
+    count = 0
+    up_time = ""
+    time_list = []
+    time_suffix_list = ["s", "m", "h", "days"]
 
+            
 def humanbytes(size):
     """Input size in bytes,
     outputs in a human readable format"""
