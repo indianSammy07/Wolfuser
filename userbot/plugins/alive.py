@@ -1,6 +1,6 @@
 import os
 from userbot import ALIVE_NAME
-from userbot.utils import admin_cmd, get_readable_time as grt
+from uniborg.util import admin_cmd
 from platform import python_version, uname
 import time
 from userbot import UpTime
