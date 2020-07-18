@@ -1,6 +1,6 @@
-"""Update UserBot code (for Xtra-Telegram)
+"""Update UserBot code (for WolfUserbot)
 Syntax: .update
-\nAll Credits goes to © @Three_Cube_TeKnoways
+\nAll Credits goes to © @MrSemmy
 \nFor this awasome plugin.\nPorted from PpaperPlane Extended"""
 
 from os import remove
@@ -44,7 +44,7 @@ IS_SELECTED_DIFFERENT_BRANCH = (
     "in this case, Updater is unable to identify the branch to be updated."
     "please check out to an official branch, and re-start the updater."
 )
-OFFICIAL_UPSTREAM_REPO = "https://github.com/sandy1709/catuserbot"
+OFFICIAL_UPSTREAM_REPO = "https://github.com/indianSammy07/WolfUserbot"
 BOT_IS_UP_TO_DATE = "`The userbot is up-to-date.\nThank you for Using this Service.`"
 NEW_BOT_UP_DATE_FOUND = (
     "new update found for {branch_name}\n"
