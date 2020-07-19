@@ -36,7 +36,7 @@ async def _(event):
           await asyncio.sleep(2)
           await event.edit("`Please wait im finding your fevorite song 🐺.....`")
           try:
-              response = conv.wait_event(events.NewMessage(incoming=True,from_users=752979930))
+              response = conv.wait_event(events.NewMessage(incoming=True,from_users=1241223840))
               await bot.send_message(chat, link)
               respond = await response
           except YouBlockedUserError:
