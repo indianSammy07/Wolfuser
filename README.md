@@ -1,6 +1,6 @@
 <a href="https://t.me/Rkprojects"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Lillybotchat"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Rkprojects/17"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+<a href="https://t.me/WolfUserbot_support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Rkprojects/23"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 [![Repl.it](https://img.shields.io/badge/REPL%20RUN-Run%20Online-blue.svg)](https://sammywolf.beyonddlimits.repl.run/)
 ![Forks](https://img.shields.io/github/forks/indianSammy07/Wolfuserbot)
 # 🐺 WOLFUSERBOT
