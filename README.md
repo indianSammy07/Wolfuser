@@ -1,7 +1,7 @@
 # 🐺 WOLFUSERBOT
 
 
-![WolfUserbot](https://telegra.ph/file/a6c81b071ebe187d051c1.jpg)
+![WolfUserbot](https://telegra.ph/file/c31916ed72c399ae3d594.jpg)
 
 
 
