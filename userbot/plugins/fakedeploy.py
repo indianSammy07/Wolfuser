@@ -1,4 +1,4 @@
-plug in remodified and updated dor Wolf Userbot. Modified By @Crackexy.
+
 """Emoji
 
 Available Commands:
