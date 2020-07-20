@@ -158,10 +158,10 @@ async def insult(e):
 
 
 			  
-@borg.on(admin_cmd(outgoing=True, pattern="repo"))
+@register(outgoing=True, pattern="^.repo$")
 async def source(e):
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
-        await e.edit("**Link To The Custom Fork Repo:**"https://github.com/indianSammy07/Wolfuserbot .")
+        await e.edit("Lit Userbot Repo Of Wolf Userbot\nhttps://github.com/indianSammy07/Wolfuserbot.")
 			  
 
 			  
