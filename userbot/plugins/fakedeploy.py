@@ -1,4 +1,3 @@
-
 """Emoji
 
 Available Commands:
