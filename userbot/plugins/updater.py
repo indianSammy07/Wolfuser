@@ -140,7 +140,7 @@ def generate_change_log(git_repo, diff_marker):
 
 async def deploy_start(bot, message, refspec, remote):
     await message.edit(RESTARTING_APP)
-ur    await message.edit("**The Latest Branch** `Master` **Has Been Pushed To Heroku ™** \n**Now Trying A Restart To Complete Updation Process⚠️ !!To Check If i Am Just Do  `.alive` or `.help` !!!! Thanks For Using 🐺 Wolf UserBot Service (◍•ᴗ•◍)❤")
+ur    await message.edit("**The Latest Branch** `Master` **Has Been Pushed To Heroku ™** \n**Now Trying A Restart To Complete Updation Process⚠️ !!To Check If i Am Just Do  `.alive` or `.help` !!!! Thanks For Using 🐺 Wolf UserBot Service➲\n⇩⇩⇩⇩⇩⇩⇩⇩\n🐺@RkProjects🐺")
     await remote.push(refspec=refspec)
     await bot.disconnect()
     os.execl(sys.executable, sys.executable, *sys.argv)
