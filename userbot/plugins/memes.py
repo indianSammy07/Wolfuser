@@ -161,7 +161,7 @@ async def insult(e):
 @register(outgoing=True, pattern="^.repo$")
 async def source(e):
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
-        await e.edit("Click[Here](https://github.com/indianSammy07/Wolfserbot) to open this cool And Best Userbot Repo .")
+        await e.edit("Click [Here](https://github.com/indianSammy07/Wolfserbot) to open this cool And Best Userbot Repo .")
 			 
 
 			  
