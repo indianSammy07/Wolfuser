@@ -65,7 +65,7 @@ async def _(event):
     	await event.edit("`What I am Supposed to find `")
     	return
     
-    await catmusic(str(query),"320k")
+    await wolfmusic(str(query),"320k")
     l = glob.glob("*.mp3")
     if l:
         await event.edit("yeah..! i found something wi8..🥰")
@@ -152,7 +152,7 @@ async def _(event):
     else:
     	san = await event.reply("`What I am Supposed to find `")
     	return
-    await catmusic(str(query),"320k")
+    await wolfmusic(str(query),"320k")
     l = glob.glob("*.mp3")
     if l:
         await event.edit("Wait! im finding Your songs 😉")
