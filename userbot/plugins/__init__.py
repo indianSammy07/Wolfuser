@@ -1,6 +1,6 @@
-from userbot import wolfdef
+from userbot import os
 
 
-wolfmusic = wolfdef.wolfmusic 
-wolfmusicvideo = wolfdef.wolfmusicvideo
-admin_groups = wolfdef.admin_groups
+wolfmusic = os.wolfmusic 
+wolfmusicvideo = os.wolfmusicvideo
+admin_groups = os.admin_groups
