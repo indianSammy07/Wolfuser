@@ -9,7 +9,7 @@ from userbot.utils import admin_cmd , sudo_cmd
 import glob
 import os  
 from userbot import CMD_HELP
-
+from userbot.plugins import wolfmusic , wolfmusicvideo
 from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
 from telethon.tl.types import DocumentAttributeVideo
@@ -99,7 +99,7 @@ async def _(event):
     else:
         await event.edit("What I am Supposed to find")
         return
-    await catmusicvideo(query)
+    await wolfmusicvideo(query)
     l = glob.glob(("*.mp4")) + glob.glob(("*.mkv")) + glob.glob(("*.webm")) 
     if l:
         await event.edit("wait! im finding your songs 😉")
