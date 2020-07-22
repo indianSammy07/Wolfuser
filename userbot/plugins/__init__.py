@@ -1,6 +1,6 @@
-from userbot import catdef
+from userbot import wolfdef
 
 
-catmusic = catdef.catmusic 
-catmusicvideo = catdef.catmusicvideo
-admin_groups = catdef.admin_groups
+wolfmusic = wolfdef.wolfmusic 
+wolfmusicvideo = wolfdef.wolfmusicvideo
+admin_groups = wolfdef.admin_groups
