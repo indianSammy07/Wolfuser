@@ -9,7 +9,7 @@ from userbot.utils import admin_cmd , sudo_cmd
 import glob
 import os  
 from userbot import CMD_HELP
-from userbot.plugins import catmusic , catmusicvideo
+
 from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
 from telethon.tl.types import DocumentAttributeVideo
